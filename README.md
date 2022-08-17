@@ -1,7 +1,6 @@
 # Organice
 
 Website link:
-
 ### https://deployment.d3f2qs8kbrkdrm.amplifyapp.com/
 
 The goal of Organice is to help student of all ages study effectively and staying on top of their tasks. It offers different variations of flashcards to study from, and to-do list, reminder and intereactive Calendar to stay on top of their tasks. 
@@ -34,5 +33,5 @@ Academic success stems from memorization. An ideal way to achieve this is with f
 - Refat Monjour
 
 ## Documentation
-[Project report] ()
-## Demo
+[Project Report](https://github.com/mdrislam30/Organice/blob/main/Organice_documentation.pdf)
+
