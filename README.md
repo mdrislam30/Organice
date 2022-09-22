@@ -3,6 +3,14 @@
 Website link:
 ### https://deployment.d3f2qs8kbrkdrm.amplifyapp.com/
 
+### Try out yourself :
+
+#### • Create an Account and Sign In / Sign In with google OR
+#### • Use this credentials:
+```
+Email: test123@gmail.com
+Password: testtest123
+```
 The goal of Organice is to help student of all ages study effectively and staying on top of their tasks. It offers different variations of flashcards to study from, and to-do list, reminder and intereactive Calendar to stay on top of their tasks. 
 
 ### Why Organice?
